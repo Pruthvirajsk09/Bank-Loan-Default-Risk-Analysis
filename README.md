@@ -51,7 +51,7 @@ loan-default-risk-analysis/
 ├── sql/
 │   └── loan_default_analysis.sql  ← 15+ SQL queries
 │
-├── loan_default_eda.py            ← Python EDA + visualizations
+├── loan_default_eda.ipynb         ← Python EDA + visualizations
 │
 ├── docs/
 │   ├── loan_dashboard.png         ← Python dashboard
